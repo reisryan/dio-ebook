@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Ebook
 
 Projeto elaborado a partir de proposição da DIO;
@@ -23,4 +21,3 @@ Projeto elaborado a partir de proposição da DIO;
 =======
 # dio-ebook
 Um projeto da DIO para elaborar um ebook utilizando-se do ChatGPT e Midjourney.
->>>>>>> a41a13a3709cd7b31cbfa6a834c9aa9a50fd21fd
