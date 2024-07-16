@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Ebook
 
@@ -19,3 +20,7 @@ Projeto elaborado a partir de proposição da DIO;
 ``` 4. Faça o capítulo 1;``` \
 ``` 5. Faça o capítulo 2;``` \
 ``` 6. Faça o capítulo 3.```
+=======
+# dio-ebook
+Um projeto da DIO para elaborar um ebook utilizando-se do ChatGPT e Midjourney.
+>>>>>>> a41a13a3709cd7b31cbfa6a834c9aa9a50fd21fd
